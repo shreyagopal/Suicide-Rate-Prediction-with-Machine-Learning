@@ -15,6 +15,6 @@ Final Project for Machine Learning &amp; Data Analysis Course - University of Ne
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project presentation has few slides about the inital stages of the project development.
 
-[**Project Report:**]() 
+[**Project Report:**](https://github.com/shreyagopal/Suicide-Rate-Prediction-with-Machine-Learning/blob/master/4.%20Report_Suicide%20Rate%20Prediction%20with%20Machine%20Learning.pdf) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project report has the detailed description about the working and execution of the project along with the explanation of the code. 
